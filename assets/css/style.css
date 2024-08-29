@@ -59,7 +59,7 @@ h3 {
 }
 
 h4 {
-	font-size: 24px;
+	font-size: 22px;
 }
 
 h5 {
@@ -1186,7 +1186,7 @@ ol {
 }
 
 .product__item__pic {
-	height: 360px;
+	height: 230px;
 	position: relative;
 	overflow: hidden;
 }
@@ -1616,6 +1616,7 @@ ol {
 	margin-right: 6px;
 }
 
+
 .pagination__option a:last-child {
 	margin-right: 0;
 }
@@ -1630,6 +1631,11 @@ ol {
 	color: #ffffff;
 }
 
+.pagination__option a.active {
+	background: #0d0d0d;
+	border-color: #0d0d0d;
+	color: #ffffff;
+}
 /*---------------------
   Product Details
 -----------------------*/
@@ -1808,7 +1814,6 @@ ol {
 
 .product__details__button {
 	overflow: hidden;
-	margin-bottom: 25px;
 }
 
 .product__details__button .cart-btn {
@@ -1818,9 +1823,10 @@ ol {
 	background: #ca1515;
 	font-weight: 600;
 	text-transform: uppercase;
-	padding: 14px 30px 15px;
+	padding: 10px 20px 10px;
 	border-radius: 50px;
 	float: left;
+	border: none;
 	margin-right: 10px;
 	margin-bottom: 10px;
 }
@@ -1855,9 +1861,13 @@ ol {
 	color: #666666;
 }
 
-.product__details__widget {
+.product__details__button {
 	border-top: 1px solid #ebebeb;
 	padding-top: 35px;
+}
+
+.product__details__widget {
+	margin-bottom: 25px;
 }
 
 .product__details__widget ul li {

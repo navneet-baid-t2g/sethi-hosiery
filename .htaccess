@@ -4,15 +4,46 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_URI} /(.*)/$
 RewriteRule ^ /%1 [R,L]
+
+# Redirect /shpe/page/{page} to /shop.php?page={page}
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^shop/page/([0-9]+)$ shop.php?page=$1 [L,QSA]
+
 # Redirect /product/{slug} to /product.php?slug={slug}
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^product/([^/]+)$ product.php?slug=$1 [L,QSA]
 
+# Redirect /product-category/{category}/{subcategory}/{subsubcategory}/page/{page} to /product-category.php?category={category}&subcategory={subcategory}&subsubcategory={subsubcategory}&page={page}
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^product-category/([^/]+)/([^/]+)/([^/]+)/page/([0-9]+)$ product-category.php?category=$1&subcategory=$2&subsubcategory=$3&page=$4 [L,QSA]
+
+# Redirect /product-category/{category}/{subcategory}/page/{page} to /product-category.php?category={category}&subcategory={subcategory}&page={page}
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^product-category/([^/]+)/([^/]+)/page/([0-9]+)$ product-category.php?category=$1&subcategory=$2&page=$3 [L,QSA]
+
+# Redirect /product-category/{category}/page/{page} to /product-category.php?category={category}&page={page}
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^product-category/([^/]+)/page/([0-9]+)$ product-category.php?category=$1&page=$2 [L,QSA]
+
+# Redirect /product-category/{category}/{subcategory}/{subsubcategory} to /product-category.php?category={category}&subcategory={subcategory}&subsubcategory={subsubcategory}
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^product-category/([^/]+)/([^/]+)/([^/]+)$ product-category.php?category=$1&subcategory=$2&subsubcategory=$3 [L,QSA]
+
 # Redirect /product-category/{category}/{subcategory} to /product-category.php?category={category}&subcategory={subcategory}
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^product-category/([^/]+)/([^/]+)/([^/]+)$ product-category.php?category=$1&subcategory=$2$subsubcategory=$3 [L,QSA]
+RewriteRule ^product-category/([^/]+)/([^/]+)$ product-category.php?category=$1&subcategory=$2 [L,QSA]
+
+# Redirect /product-category/{category} to /product-category.php?category={category}
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^product-category/([^/]+)$ product-category.php?category=$1 [L,QSA]
 
 
 # Redirect requests for .php files to their URL without .php

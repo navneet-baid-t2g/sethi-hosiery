@@ -41,9 +41,10 @@
             <div class="col-lg-4 col-md-8 col-sm-8">
                 <div class="footer__newslatter">
                     <h6>NEWSLETTER</h6>
-                    <form action="#">
-                        <input type="text" placeholder="Email">
-                        <button type="submit" class="site-btn">Subscribe</button>
+                    <form id="newsletterForm">
+                        <input type="email" id="email" placeholder="Email">
+                        <button type="submit" class="site-btn" id="subscribeBtn">Subscribe</button>
+                        <div id="formMessage" style="color: red; margin-top: 10px;"></div>
                     </form>
                     <!-- <div class="footer__social">
                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -87,6 +88,66 @@
 <script src="assets/js/owl.carousel.min.js"></script>
 <script src="assets/js/jquery.nicescroll.min.js"></script>
 <script src="assets/js/main.js"></script>
+<script>
+    document.getElementById('newsletterForm').addEventListener('submit', function(event) {
+        event.preventDefault(); // Prevent form from submitting
+
+        var email = document.getElementById('email').value;
+        var subscribeBtn = document.getElementById('subscribeBtn');
+        var messageDiv = document.getElementById('formMessage');
+
+        // Disable the subscribe button
+        subscribeBtn.disabled = true;
+        subscribeBtn.textContent = 'Submitting...';
+        // Clear previous messages
+        messageDiv.textContent = '';
+
+        // Simple email validation
+        if (!email || !validateEmail(email)) {
+            messageDiv.textContent = 'Please enter a valid email address.';
+            // Enable the subscribe button
+            subscribeBtn.disabled = false;
+            subscribeBtn.textContent = 'Subscribe';
+            return;
+        }
+
+        // Submit the form via Fetch API
+        fetch('submit-newsletter', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams({
+                    email: email,
+                }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    messageDiv.style.color = 'green';
+                    messageDiv.textContent = 'Subscription successful!';
+                    document.getElementById('email').value = '';
+                } else {
+                    messageDiv.style.color = 'red';
+                    messageDiv.textContent = 'There was an error. Please try again.';
+                }
+            })
+            .catch(() => {
+                messageDiv.style.color = 'red';
+                messageDiv.textContent = 'There was an error. Please try again.';
+            }).finally(() => {
+                // Enable the subscribe button
+                subscribeBtn.disabled = false;
+                subscribeBtn.textContent = 'Subscribe';
+            });
+    });
+
+    function validateEmail(email) {
+        var re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        return re.test(String(email).toLowerCase());
+    }
+</script>
+
 </body>
 
 </html>

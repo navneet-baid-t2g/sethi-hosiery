@@ -1,0 +1,1101 @@
+[
+    {
+        "product_id": 55,
+        "term_id": 15,
+        "category_name": "Uncategorized",
+        "category_slug": "uncategorized"
+    },
+    {
+        "product_id": 55,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 55,
+        "term_id": 30,
+        "category_name": "Cotton Socks",
+        "category_slug": "cotton-socks"
+    },
+    {
+        "product_id": 55,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 294,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 294,
+        "term_id": 30,
+        "category_name": "Cotton Socks",
+        "category_slug": "cotton-socks"
+    },
+    {
+        "product_id": 294,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 297,
+        "term_id": 33,
+        "category_name": "Ladies Socks",
+        "category_slug": "ladies-socks"
+    },
+    {
+        "product_id": 297,
+        "term_id": 35,
+        "category_name": "Nylon Socks",
+        "category_slug": "nylon-socks"
+    },
+    {
+        "product_id": 297,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 299,
+        "term_id": 33,
+        "category_name": "Ladies Socks",
+        "category_slug": "ladies-socks"
+    },
+    {
+        "product_id": 299,
+        "term_id": 36,
+        "category_name": "Stocking",
+        "category_slug": "stocking"
+    },
+    {
+        "product_id": 299,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 320,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 320,
+        "term_id": 30,
+        "category_name": "Cotton Socks",
+        "category_slug": "cotton-socks"
+    },
+    {
+        "product_id": 320,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 322,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 322,
+        "term_id": 30,
+        "category_name": "Cotton Socks",
+        "category_slug": "cotton-socks"
+    },
+    {
+        "product_id": 322,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 324,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 324,
+        "term_id": 30,
+        "category_name": "Cotton Socks",
+        "category_slug": "cotton-socks"
+    },
+    {
+        "product_id": 324,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 329,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 329,
+        "term_id": 30,
+        "category_name": "Cotton Socks",
+        "category_slug": "cotton-socks"
+    },
+    {
+        "product_id": 329,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 331,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 331,
+        "term_id": 30,
+        "category_name": "Cotton Socks",
+        "category_slug": "cotton-socks"
+    },
+    {
+        "product_id": 331,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 333,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 333,
+        "term_id": 30,
+        "category_name": "Cotton Socks",
+        "category_slug": "cotton-socks"
+    },
+    {
+        "product_id": 333,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 335,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 335,
+        "term_id": 30,
+        "category_name": "Cotton Socks",
+        "category_slug": "cotton-socks"
+    },
+    {
+        "product_id": 335,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 337,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 337,
+        "term_id": 30,
+        "category_name": "Cotton Socks",
+        "category_slug": "cotton-socks"
+    },
+    {
+        "product_id": 337,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 339,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 339,
+        "term_id": 31,
+        "category_name": "Towel Socks",
+        "category_slug": "towel-socks"
+    },
+    {
+        "product_id": 339,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 341,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 341,
+        "term_id": 32,
+        "category_name": "Loafer Socks",
+        "category_slug": "loafer-socks"
+    },
+    {
+        "product_id": 341,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 343,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 343,
+        "term_id": 32,
+        "category_name": "Loafer Socks",
+        "category_slug": "loafer-socks"
+    },
+    {
+        "product_id": 343,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 345,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 345,
+        "term_id": 32,
+        "category_name": "Loafer Socks",
+        "category_slug": "loafer-socks"
+    },
+    {
+        "product_id": 345,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 348,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 348,
+        "term_id": 32,
+        "category_name": "Loafer Socks",
+        "category_slug": "loafer-socks"
+    },
+    {
+        "product_id": 348,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 349,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 349,
+        "term_id": 32,
+        "category_name": "Loafer Socks",
+        "category_slug": "loafer-socks"
+    },
+    {
+        "product_id": 349,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 351,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 351,
+        "term_id": 32,
+        "category_name": "Loafer Socks",
+        "category_slug": "loafer-socks"
+    },
+    {
+        "product_id": 351,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 353,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 353,
+        "term_id": 32,
+        "category_name": "Loafer Socks",
+        "category_slug": "loafer-socks"
+    },
+    {
+        "product_id": 353,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 355,
+        "term_id": 33,
+        "category_name": "Ladies Socks",
+        "category_slug": "ladies-socks"
+    },
+    {
+        "product_id": 355,
+        "term_id": 34,
+        "category_name": "Ladies Cotton Socks",
+        "category_slug": "ladies-cotton-socks"
+    },
+    {
+        "product_id": 355,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 357,
+        "term_id": 33,
+        "category_name": "Ladies Socks",
+        "category_slug": "ladies-socks"
+    },
+    {
+        "product_id": 357,
+        "term_id": 34,
+        "category_name": "Ladies Cotton Socks",
+        "category_slug": "ladies-cotton-socks"
+    },
+    {
+        "product_id": 357,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 359,
+        "term_id": 33,
+        "category_name": "Ladies Socks",
+        "category_slug": "ladies-socks"
+    },
+    {
+        "product_id": 359,
+        "term_id": 34,
+        "category_name": "Ladies Cotton Socks",
+        "category_slug": "ladies-cotton-socks"
+    },
+    {
+        "product_id": 359,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 361,
+        "term_id": 33,
+        "category_name": "Ladies Socks",
+        "category_slug": "ladies-socks"
+    },
+    {
+        "product_id": 361,
+        "term_id": 34,
+        "category_name": "Ladies Cotton Socks",
+        "category_slug": "ladies-cotton-socks"
+    },
+    {
+        "product_id": 361,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 363,
+        "term_id": 33,
+        "category_name": "Ladies Socks",
+        "category_slug": "ladies-socks"
+    },
+    {
+        "product_id": 363,
+        "term_id": 35,
+        "category_name": "Nylon Socks",
+        "category_slug": "nylon-socks"
+    },
+    {
+        "product_id": 363,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 414,
+        "term_id": 33,
+        "category_name": "Ladies Socks",
+        "category_slug": "ladies-socks"
+    },
+    {
+        "product_id": 414,
+        "term_id": 35,
+        "category_name": "Nylon Socks",
+        "category_slug": "nylon-socks"
+    },
+    {
+        "product_id": 414,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 417,
+        "term_id": 33,
+        "category_name": "Ladies Socks",
+        "category_slug": "ladies-socks"
+    },
+    {
+        "product_id": 417,
+        "term_id": 35,
+        "category_name": "Nylon Socks",
+        "category_slug": "nylon-socks"
+    },
+    {
+        "product_id": 417,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 419,
+        "term_id": 33,
+        "category_name": "Ladies Socks",
+        "category_slug": "ladies-socks"
+    },
+    {
+        "product_id": 419,
+        "term_id": 35,
+        "category_name": "Nylon Socks",
+        "category_slug": "nylon-socks"
+    },
+    {
+        "product_id": 419,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 421,
+        "term_id": 37,
+        "category_name": "Kids Socks",
+        "category_slug": "kids-socks"
+    },
+    {
+        "product_id": 421,
+        "term_id": 38,
+        "category_name": "School Socks",
+        "category_slug": "school-socks"
+    },
+    {
+        "product_id": 424,
+        "term_id": 37,
+        "category_name": "Kids Socks",
+        "category_slug": "kids-socks"
+    },
+    {
+        "product_id": 424,
+        "term_id": 38,
+        "category_name": "School Socks",
+        "category_slug": "school-socks"
+    },
+    {
+        "product_id": 427,
+        "term_id": 37,
+        "category_name": "Kids Socks",
+        "category_slug": "kids-socks"
+    },
+    {
+        "product_id": 427,
+        "term_id": 38,
+        "category_name": "School Socks",
+        "category_slug": "school-socks"
+    },
+    {
+        "product_id": 429,
+        "term_id": 37,
+        "category_name": "Kids Socks",
+        "category_slug": "kids-socks"
+    },
+    {
+        "product_id": 429,
+        "term_id": 38,
+        "category_name": "School Socks",
+        "category_slug": "school-socks"
+    },
+    {
+        "product_id": 431,
+        "term_id": 37,
+        "category_name": "Kids Socks",
+        "category_slug": "kids-socks"
+    },
+    {
+        "product_id": 433,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 433,
+        "term_id": 42,
+        "category_name": "Customize T-shirts",
+        "category_slug": "customize-t-shirts"
+    },
+    {
+        "product_id": 436,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 436,
+        "term_id": 42,
+        "category_name": "Customize T-shirts",
+        "category_slug": "customize-t-shirts"
+    },
+    {
+        "product_id": 436,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 436,
+        "term_id": 55,
+        "category_name": "Promotional Polo T-Shirt",
+        "category_slug": "promotional-polo-t-shirt"
+    },
+    null,
+    {
+        "product_id": 918,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 918,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 918,
+        "term_id": 53,
+        "category_name": "Advertisement T-Shirts",
+        "category_slug": "advertisement-t-shirts"
+    },
+    {
+        "product_id": 928,
+        "term_id": 46,
+        "category_name": "Caps",
+        "category_slug": "caps"
+    },
+    {
+        "product_id": 928,
+        "term_id": 63,
+        "category_name": "Fashion Hats",
+        "category_slug": "fashion-hats"
+    },
+    {
+        "product_id": 928,
+        "term_id": 64,
+        "category_name": "Round Hats",
+        "category_slug": "round-hats"
+    },
+    {
+        "product_id": 934,
+        "term_id": 29,
+        "category_name": "Mens Cotton Socks",
+        "category_slug": "mens-cotton-socks"
+    },
+    {
+        "product_id": 934,
+        "term_id": 31,
+        "category_name": "Towel Socks",
+        "category_slug": "towel-socks"
+    },
+    {
+        "product_id": 934,
+        "term_id": 45,
+        "category_name": "Socks",
+        "category_slug": "socks"
+    },
+    {
+        "product_id": 934,
+        "term_id": 48,
+        "category_name": "Men’s Towel Socks",
+        "category_slug": "mens-towel-socks"
+    },
+    {
+        "product_id": 951,
+        "term_id": 43,
+        "category_name": "Handkerchief",
+        "category_slug": "handkerchief"
+    },
+    {
+        "product_id": 951,
+        "term_id": 65,
+        "category_name": "MEN'S HANDKERCHIEF",
+        "category_slug": "mens-handkerchief"
+    },
+    {
+        "product_id": 962,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 962,
+        "term_id": 41,
+        "category_name": "Collar T-shirts",
+        "category_slug": "collar-t-shirts"
+    },
+    {
+        "product_id": 969,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 969,
+        "term_id": 40,
+        "category_name": "Round Neck T-shirts",
+        "category_slug": "t-shirts-t-shirts"
+    },
+    {
+        "product_id": 987,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 987,
+        "term_id": 41,
+        "category_name": "Collar T-shirts",
+        "category_slug": "collar-t-shirts"
+    },
+    {
+        "product_id": 987,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 987,
+        "term_id": 54,
+        "category_name": "Plain Promotional T-Shirt",
+        "category_slug": "plain-promotional-t-shirt"
+    },
+    {
+        "product_id": 1009,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1009,
+        "term_id": 41,
+        "category_name": "Collar T-shirts",
+        "category_slug": "collar-t-shirts"
+    },
+    {
+        "product_id": 1021,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1021,
+        "term_id": 41,
+        "category_name": "Collar T-shirts",
+        "category_slug": "collar-t-shirts"
+    },
+    {
+        "product_id": 1030,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1030,
+        "term_id": 41,
+        "category_name": "Collar T-shirts",
+        "category_slug": "collar-t-shirts"
+    },
+    {
+        "product_id": 1036,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1036,
+        "term_id": 41,
+        "category_name": "Collar T-shirts",
+        "category_slug": "collar-t-shirts"
+    },
+    {
+        "product_id": 1056,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1056,
+        "term_id": 41,
+        "category_name": "Collar T-shirts",
+        "category_slug": "collar-t-shirts"
+    },
+    {
+        "product_id": 1066,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1066,
+        "term_id": 41,
+        "category_name": "Collar T-shirts",
+        "category_slug": "collar-t-shirts"
+    },
+    {
+        "product_id": 1077,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1077,
+        "term_id": 40,
+        "category_name": "Round Neck T-shirts",
+        "category_slug": "t-shirts-t-shirts"
+    },
+    {
+        "product_id": 1081,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1081,
+        "term_id": 40,
+        "category_name": "Round Neck T-shirts",
+        "category_slug": "t-shirts-t-shirts"
+    },
+    {
+        "product_id": 1093,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1093,
+        "term_id": 40,
+        "category_name": "Round Neck T-shirts",
+        "category_slug": "t-shirts-t-shirts"
+    },
+    {
+        "product_id": 1096,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1096,
+        "term_id": 40,
+        "category_name": "Round Neck T-shirts",
+        "category_slug": "t-shirts-t-shirts"
+    },
+    {
+        "product_id": 1099,
+        "term_id": 59,
+        "category_name": "DAV School Uniforms",
+        "category_slug": "dav-school-uniforms"
+    },
+    {
+        "product_id": 1099,
+        "term_id": 60,
+        "category_name": "Govt. School Uniforms",
+        "category_slug": "govt-school-uniforms"
+    },
+    {
+        "product_id": 1101,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1101,
+        "term_id": 42,
+        "category_name": "Customize T-shirts",
+        "category_slug": "customize-t-shirts"
+    },
+    {
+        "product_id": 1101,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 1101,
+        "term_id": 53,
+        "category_name": "Advertisement T-Shirts",
+        "category_slug": "advertisement-t-shirts"
+    },
+    {
+        "product_id": 1103,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1103,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 1103,
+        "term_id": 53,
+        "category_name": "Advertisement T-Shirts",
+        "category_slug": "advertisement-t-shirts"
+    },
+    {
+        "product_id": 1105,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1105,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 1105,
+        "term_id": 53,
+        "category_name": "Advertisement T-Shirts",
+        "category_slug": "advertisement-t-shirts"
+    },
+    {
+        "product_id": 1110,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1110,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 1110,
+        "term_id": 56,
+        "category_name": "Political Party Election T-Shirt",
+        "category_slug": "political-party-election-t-shirt"
+    },
+    {
+        "product_id": 1120,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1120,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 1120,
+        "term_id": 56,
+        "category_name": "Political Party Election T-Shirt",
+        "category_slug": "political-party-election-t-shirt"
+    },
+    {
+        "product_id": 1123,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1123,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 1123,
+        "term_id": 56,
+        "category_name": "Political Party Election T-Shirt",
+        "category_slug": "political-party-election-t-shirt"
+    },
+    {
+        "product_id": 1353,
+        "term_id": 15,
+        "category_name": "Uncategorized",
+        "category_slug": "uncategorized"
+    },
+    {
+        "product_id": 1353,
+        "term_id": 66,
+        "category_name": "Yoga T-Shirts",
+        "category_slug": "yoga-t-shirts"
+    },
+    {
+        "product_id": 1357,
+        "term_id": 68,
+        "category_name": "Sublimation T-Shirts",
+        "category_slug": "sublimation-t-shirts"
+    },
+    {
+        "product_id": 1357,
+        "term_id": 70,
+        "category_name": "Round Neck T-Shirts",
+        "category_slug": "round-neck-t-shirts"
+    },
+    {
+        "product_id": 1359,
+        "term_id": 69,
+        "category_name": "Sports T-Shirts",
+        "category_slug": "sports-t-shirts"
+    },
+    {
+        "product_id": 1364,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1364,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 1364,
+        "term_id": 52,
+        "category_name": "Corporate Promotional T-shirts",
+        "category_slug": "corporate-promotional-t-shirts"
+    },
+    {
+        "product_id": 1364,
+        "term_id": 71,
+        "category_name": "Promotional T-Shirts Manufacturers",
+        "category_slug": "promotional-t-shirts-manufacturers"
+    },
+    {
+        "product_id": 1368,
+        "term_id": 69,
+        "category_name": "Sports T-Shirts",
+        "category_slug": "sports-t-shirts"
+    },
+    {
+        "product_id": 1372,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1372,
+        "term_id": 40,
+        "category_name": "Round Neck T-shirts",
+        "category_slug": "t-shirts-t-shirts"
+    },
+    {
+        "product_id": 1372,
+        "term_id": 70,
+        "category_name": "Round Neck T-Shirts",
+        "category_slug": "round-neck-t-shirts"
+    },
+    {
+        "product_id": 1372,
+        "term_id": 74,
+        "category_name": "Logo T-Shirts Manufacturers",
+        "category_slug": "logo-t-shirts-manufacturers"
+    },
+    {
+        "product_id": 1373,
+        "term_id": 75,
+        "category_name": "Hooded T-Shirts Manufacturers",
+        "category_slug": "hooded-t-shirts-manufacturers"
+    },
+    {
+        "product_id": 1376,
+        "term_id": 46,
+        "category_name": "Caps",
+        "category_slug": "caps"
+    },
+    {
+        "product_id": 1376,
+        "term_id": 61,
+        "category_name": "Promotional Cotton Cap",
+        "category_slug": "promotional-cotton-cap"
+    },
+    {
+        "product_id": 1376,
+        "term_id": 62,
+        "category_name": "Advertising Cap",
+        "category_slug": "advertising-cap"
+    },
+    {
+        "product_id": 1393,
+        "term_id": 15,
+        "category_name": "Uncategorized",
+        "category_slug": "uncategorized"
+    },
+    {
+        "product_id": 1393,
+        "term_id": 39,
+        "category_name": "T-shirts",
+        "category_slug": "t-shirts"
+    },
+    {
+        "product_id": 1393,
+        "term_id": 51,
+        "category_name": "Promotional T-Shirts",
+        "category_slug": "promotional-t-shirts"
+    },
+    {
+        "product_id": 1393,
+        "term_id": 58,
+        "category_name": "Corporate Event T-Shirts",
+        "category_slug": "corporate-event-t-shirts"
+    }
+]

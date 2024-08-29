@@ -5,6 +5,11 @@ function getBaseUrl() {
     $scriptName = dirname($_SERVER['SCRIPT_NAME']);
     return $protocol . $host . $scriptName . '/';
 }
+
+function isActive($url) {
+    echo $_SERVER['REQUEST_URI'];
+    return ($_SERVER['REQUEST_URI'] == $url) ? 'active' : '';
+}
 ?>
 
 <!DOCTYPE html>
@@ -93,48 +98,40 @@ function getBaseUrl() {
                 <div class="col-xl-6 col-lg-7 text-center">
                     <nav class="header__menu">
                         <ul>
-                            <li class=""><a href="./about-us">About Us</a></li>
-                            <li><a href="./shop">Shop</a>
+                            <li class="<?= isActive('/about-us') ?>"><a href="./about-us">About Us</a></li>
+                            <li class="<?= isActive('/shop') ?>"><a href="./shop">Shop <i class="fa-solid fa-chevron-down"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="#">Yoga T-Shirts</a></li>
-                                    <li><a href="#">V Neck T-Shirts</a></li>
-                                    <li><a href="#">Sublimation T-Shirts</a></li>
-                                    <li><a href="#">Sports T-Shirts</a></li>
-                                    <li><a href="#">Round Neck T-Shirts</a></li>
-                                    <li><a href="#">Promotional T-Shirts Manufacturers</a></li>
-                                    <li><a href="#">Organic Cotton T-Shirts Uniform</a></li>
-                                    <li><a href="#">Marathon T-Shirts Manufacturers</a></li>
-                                    <li><a href="#">Logo T-Shirts Manufacturers</a></li>
-                                    <li><a href="#">Hooded T-Shirts Manufacturers</a></li>
+                                    <li><a href="./product-category/yoga-t-shirts/">Yoga T-Shirts</a></li>
+                                    <li><a href="./product-category/v-neck-t-shirts/">V Neck T-Shirts</a></li>
+                                    <li><a href="./product-category/sublimation-t-shirts/">Sublimation T-Shirts</a></li>
+                                    <li><a href="./product-category/sports-t-shirts/">Sports T-Shirts</a></li>
+                                    <li><a href="./product-category/round-neck-t-shirts/">Round Neck T-Shirts</a></li>
+                                    <li><a href="./product-category/promotional-t-shirts-manufacturers/">Promotional T-Shirts Manufacturers</a></li>
+                                    <li><a href="./product-category/organic-cotton-t-shirts-uniform/">Organic Cotton T-Shirts Uniform</a></li>
+                                    <li><a href="./product-category/marathon-t-shirts-manufacturers/">Marathon T-Shirts Manufacturers</a></li>
+                                    <li><a href="./product-category/logo-t-shirts-manufacturers/">Logo T-Shirts Manufacturers</a></li>
+                                    <li><a href="./product-category/hooded-t-shirts-manufacturers/">Hooded T-Shirts Manufacturers</a></li>
                                 </ul>
                             </li>
-                            <li><a href="./product-category/t-shirts">T-Shirts</a>
+                            <li class="<?= isActive('/product-category/t-shirts') ?>"><a href="./product-category/t-shirts">T-Shirts <i class="fa-solid fa-chevron-down"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="#">Round Neck T-Shirts</a></li>
-                                    <li><a href="#">Collar T-Shirts</a></li>
-                                    <li><a href="#">Promotional T-Shirts</a>
+                                    <li><a href="./product-category/t-shirts/t-shirts-t-shirts/">Round Neck T-Shirts</a></li>
+                                    <li><a href="./product-category/t-shirts/collar-t-shirts/">Collar T-Shirts</a></li>
+                                    <li><a href="./product-category/t-shirts/promotional-t-shirts/">Promotional T-Shirts</a>
                                         <ul class="sub-dropdown">
-                                            <li><a href="#">Corporate Promotional T-shirts</a></li>
-                                            <li><a href="#">Advertisement T-Shirts</a></li>
-                                            <li><a href="#">Plain Promotional T-Shirt</a></li>
-                                            <li><a href="#">Promotional Polo T-Shirt</a></li>
-                                            <li><a href="#">Customize T-shirts</a></li>
-                                            <li><a href="#">Political Party Election T-Shirt</a></li>
-                                            <li><a href="#">Marathon T-Shirts</a></li>
-                                            <li><a href="#">Corporate Event T-Shirts</a></li>
+                                            <li><a href="./product-category/t-shirts/promotional-t-shirts/corporate-promotional-t-shirts/">Corporate Promotional T-shirts</a></li>
+                                            <li><a href="./product-category/t-shirts/promotional-t-shirts/advertisement-t-shirts/">Advertisement T-Shirts</a></li>
+                                            <li><a href="./product-category/t-shirts/promotional-t-shirts/plain-promotional-t-shirt/">Plain Promotional T-Shirt</a></li>
+                                            <li><a href="./product-category/t-shirts/promotional-t-shirts/promotional-polo-t-shirt/">Promotional Polo T-Shirt</a></li>
+                                            <li><a href="./product-category/t-shirts/customize-t-shirts/">Customize T-shirts</a></li>
+                                            <li><a href="./product-category/t-shirts/promotional-t-shirts/political-party-election-t-shirt/">Political Party Election T-Shirt</a></li>
+                                            <li><a href="./product-category/t-shirts/promotional-t-shirts/marathon-t-shirts/">Marathon T-Shirts</a></li>
+                                            <li><a href="./product-category/t-shirts/promotional-t-shirts/corporate-event-t-shirts/">Corporate Event T-Shirts</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="./product-category/caps">Caps</a>
-                                <ul class="dropdown">
-                                    <li><a href="#">Promotional Cotton Cap</a></li>
-                                    <li><a href="#">Advertising cap</a></li>
-                                    <li><a href="#">Fashion Hats</a></li>
-                                    <li><a href="#">Round Hats</a></li>
-                                </ul>
-                            </li>
-                            <li class=""><a href="./contact">Contact Us</a></li>
+                            <li class="<?= isActive('/contact') ?>"><a href="./contact">Contact Us</a></li>
                         </ul>
                     </nav>
                 </div>
